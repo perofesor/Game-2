@@ -1,0 +1,20 @@
+# Build directories (we keep the final build/ folder with the shipped exe)
+build_linux/
+build_win/
+third_party/
+
+# Temporary screenshots used during development
+/shot1.png
+/shot2.png
+/shot3.png
+/shot_hud.png
+/shot_tree.png
+/shot_inv.png
+
+# CMake / editor cruft
+CMakeCache.txt
+CMakeFiles/
+*.o
+*.obj
+*.user
+.DS_Store

@@ -1,0 +1,58 @@
+================================================================
+            ARCANE ASCENDANT  -  Mage Action RPG
+================================================================
+
+HOW TO RUN
+----------
+Just double-click  ArcaneAscendant.exe
+No installation, no DLLs, no internet required. 100% offline.
+Works on Windows 10/11 (64-bit). Runs on integrated GPUs
+(Intel HD / UHD, AMD Radeon Vega) - NO dedicated NVIDIA card needed.
+Requires only OpenGL 3.3 (every PC from ~2012 onward supports it).
+
+If Windows SmartScreen appears (because the exe is unsigned):
+  click "More info" -> "Run anyway".
+
+
+CONTROLS
+--------
+  W / A / S / D ....... Move (forward / left / back / right)
+  Mouse ............... Rotate camera (look around)
+  Mouse Wheel ......... Zoom camera in / out
+  SPACE ............... Jump
+  SHIFT ............... Sprint / run
+  Q ................... Lock-on nearest enemy (press again to unlock)
+  1 - 8 ............... Select a spell / power
+  RIGHT MOUSE (hold) .. Aim the selected spell
+  LEFT MOUSE .......... Cast / fire the selected spell
+  T ................... Open / close the Ability Tree (spend skill points)
+  I ................... Open / close the Inventory (use food/water/potions)
+  R ................... Restart (after death or victory)
+  ESC ................. Close menus
+
+
+THE 8 SPELLS
+------------
+  1  CHAIN LINK   - Links nearby enemies; normal hits spread to all linked.
+  2  FIRE BOLT    - Free, 2s cooldown. Your bread-and-butter fire bolt.
+  3  FROST NOVA   - Freezes enemies in an area (timer shown above them).
+  4  INFERNO      - Sets the ground ablaze; enemies burn over time.
+  5  POISON CLOUD - Green poison. Stacks! More stacks = faster HP drain.
+  6  GRASPING HANDS - Hands rise from the ground, grab & crush enemies.
+  7  METEOR       - Huge fireball, hits up to 10 enemies, massive damage,
+                    but costs a LOT of mana.
+  8  BLEEDING DAGGER - Thrown blade causes bleeding. Stacks for more bleed.
+
+  PASSIVES: invest skill points (press P in the Ability Tree) to raise
+  Spell Power, Crit Chance, max HP and max Mana.
+
+
+GOAL
+----
+Survive 5 waves of enemies that arrive phase by phase, then defeat the
+ARCHLICH boss. The boss has 3 phases - it gets faster, summons minions,
+and slams the ground as its health drops. Collect GOLD and XP from fallen
+enemies, level up, upgrade your spells in the Ability Tree, and ascend!
+
+Have fun, Mage.
+================================================================
